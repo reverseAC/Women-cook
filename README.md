@@ -3,7 +3,7 @@
 ## 项目简介
 -------------------
 
-**小食光**定位为一款集美食，社交，LBS服务于一体的美食推荐APP。为你发现周边美食的同时提供一个吃货分享的平台。
+**厨娘**定位为一款集美食，社交，LBS服务于一体的美食推荐APP。为你发现周边美食的同时提供一个吃货分享的平台。
 
 ## APP截图
 -----------------------
@@ -11,19 +11,14 @@
 ![首页](http://h.hiphotos.bdimg.com/wisegame/pic/item/c0cc7cd98d1001e936d72378b00e7bec55e797d9.jpg)
 ![食光轴](http://b.hiphotos.bdimg.com/wisegame/pic/item/6955b319ebc4b745d23b8061c7fc1e178a82151d.jpg)
 ![详情页](http://d.hiphotos.bdimg.com/wisegame/pic/item/88c4b74543a982265c6e1c508282b9014a90eb1e.jpg)
-## 下载地址
-------------------
-- [百度手机助手](http://shouji.baidu.com/software/9690734.html)
-- [腾讯应用宝](http://android.myapp.com/myapp/detail.htm?apkName=com.foodie.app)
 
 
 ## 功能模块
 -------------------
 - **美食推荐** ：提供基础的美食信息查询；
 - **商家推荐** : 基于用户当前位置推荐周边的人们店家；
-- **百度地图API** :提供基础的周边店家检索，定位服务；
 - **美食分享**：美食分享，动态发表，美食收藏等等；
-- **社交网络**：提供基础的"粉丝机制"；
+- **饮食计划** ：用户定制健康饮食计划
 
 ## 技术特性
 -------------------
@@ -44,21 +39,6 @@
 - [FloatingActionButton](https://github.com/Clans/FloatingActionButton)：开源FloatingActionButton组件；
 - [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)：UIL图片加载框架；
 - [android-async-http](http://loopj.com/android-async-http/):一个开源网络异步请求处理库
-
-## APP后台地址
----------------------
-
-后台使用Spring+Spring MVC+Mybatis集成，github地址为[https://github.com/Sambor123/foodie-webserver](https://github.com/Sambor123/foodie-webServer)
-
-## 联系方式
----------------------
-如有任何问题，可以联系我，相互学习
-
-- Email:xiongbo010@gmail.com
-
-## 注意事项
----------------------
-由于项目是本着敏捷开发的原则做的，并且是我第一次做的完整项目，因此代码质量不敢保证，仅供学习参考。
 
 # License
 ```

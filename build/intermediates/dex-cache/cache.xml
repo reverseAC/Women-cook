@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_7a18ced0fd1a9497350cc32c871c7a45cda99fc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\53a9d0691f7682be8a13f8c0964ba80676d98621\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_a8dda43f797fd74c9fe1888d6e89f23e90c10912\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_55e2bc32cc133e463c3b7613fa42a1871918e3b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.0_500b1a338743e72ba4552e4d20969aef200aded9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\d1e0e676a5139ea24321755ebb114e020fa052fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfaab8e2cf2ce140de2f39bcd49b74d079988ecc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\1fc9765b3eaa837545453ac732a08542d4cc10f8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc534ea43a6c48da3f1cb27b6ccae2c2b6c9ccf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\558cf3a5d04dbaf1c523dc48445b9e353b99d6a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b53e7d05a239ddd2845215a99587189e376816a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_ec18b68d03014d2621d618d07e279761478172ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\0fbe2c2986efdf483501e686a35e0ce2edc1826d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2abde49a8d53539fa902ab5b8d29698023b262dd">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f83b3d117794fb6a17e88e3e319cb86781a1abaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\a08adcdf79b248892b918f29cb4a69ceab19d581\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_252e520f1cfad7047b010d29a687559f56082658\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_450f01fe7e41eadaaa4023f406815ed9b0722113\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\55a5e0219c90dff53cd718a522ff2255d2d6eb2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f67f0c9dd1755d0ff6cbdd13c0c74d34cdced31e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\224512c91eb62660dfe242b94fa298576338d0f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9126caaa01e1df50934f5d3470725b3c33d4e486\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\3881431e66d2418a51451383d614060cbf6f2308\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da76520e32ffa283243e2a69c065919981b6f8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\1fff56e55bd894f760b48a57503a1e59280902d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a6f1c216d329854526c91ff03dfa16f605355f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\53a9d0691f7682be8a13f8c0964ba80676d98621\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81ac2f52c05eea08df0a1549c4733a9283fc0b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\42463cda7161e996e160898e5a1ac0d808917565\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09210905a301163059b2a980f8dfb427aa697be8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\f8313b03103cd0ab1e9c67f6ea68ed28b054342b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98c622a34760810b8d3f7e619afd813fc598ab39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\993055e378a0099520aa8ada9d7f42e5c0ab2628\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcfc754770e283d18b72105bae724f1c9ba1ced">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f56f67385b621ee5ff7a613d3b9404e838eafd24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.4_b11b846a07914101972795e24c0b95d1af7ad3eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_ec257b0cab7fa6733d63757655466d7c79045f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Woman cook\foodie-app-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5b89a3686b4be7fa0de42c6335308d79f2b4defb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\0598297d67ffd6dc3d6ef3e7e1d55ba85fad285a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d328ac6d7af96c7acc71ae297fb5a680c329d57">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_294db4a02029b661178b266fc12699ba7b8c7ee1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\76e997e0451e422ee9bad2a221ccd6a5e85b9d1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a40e3e64f61cdd86bc28841f445de82f843ac326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Woman cook\foodie-app-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbec79915b06ac578aace9ea67d7e259055fa86f">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1f54923312cea7b517aaeae0909db706aa6e35ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\e86483b60f22e2bc380a854b76d5777b9e6bef48\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80f42be474f1283202ac6fcee545290c338a4f0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0\da7ba0ee1d30edd955da276cdf01d3d7cb24aedc\dagger-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.0_d5e853ac45f6b7468478852d4a8c09fd4cb37f15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\9bdf0f0f8f4fe6f63789ad1c4e66cb624d849540\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73203662660bbeee83ad0f755b508f6f98cabf82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\235edcac1edf63c587252073ae25f3d8d11a0945\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b83683141a51deea59355d2f9698252d92435ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_f812b33e88e32901001151e19e8c16b17ef43b81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\c3edf59e9c31ef8759557d9d3ad3b3dc60d44688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9114d6377bac47ca040c930c03c0c7831251be79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\张军洪\.android\build-cache\0e13016ea6224b7281f7e072d87585f33cfd333c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b0af18c4e06857f37c0f72d02df06de0a8792ea">
+        <dex dex="G:\Woman cook\foodie-app-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe2ab2c01fea4f0d3e41b9f1c6e26324100fbae7\classes.dex" />
+    </item>
+
+</items>
